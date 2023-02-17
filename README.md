@@ -42,16 +42,20 @@ Here are some ideas to get you started:
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 </br>
 <div align="center">
-  [![GitHub Streak Dark](https://streak-stats.demolab.com?user=yjain-7&theme=github-dark)
+
+  [![GitHub Streak Dark](https://streak-stats.demolab.com?user=yjain-7&theme=github-dark)](https://git.io/streak-stats)
+
 </div>
+
 ## 🏆 GitHub Trophy
 <div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=yjain-7&column=6)](https://github-profile-trophy.vercel.app/?username=yjain-7&column=6)
  </div>
  
@@ -60,24 +64,18 @@ Here are some ideas to get you started:
   <br/>
   <a href="https://github.com/yjain-7/"><img alt="Yash Jain Github Stats" src="https://github-readme-stats.vercel.app/api?username=yjain-7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/yjain-7"><img alt="Yash Jain Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjain-7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-<a href="https://github.com/yjain-7"><img alt="Yash Jain Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yjain-7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
   </div>
   
   ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
 <a href = "https://www.linkedin.com/in/yjain7302/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://leetcode.com/jainyash4292/"><img src="https://raw.githubusercontent.com/yjain-7/Personal-Stuff/main/Images/leetcode.png"/></a>
+<a href = "https://leetcode.com/jainyash4292/"><img src="https://user-images.githubusercontent.com/76871563/219595462-bca0bad1-aab8-40e8-843b-c9d2860b4d2a.png"/></a>
 <a href = "https://www.instagram.com/_.yashjain"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
-## Watch my contribution graph get eaten by the snake 🐍
-<div align="center">
-  
-![GitHub Snake Light](https://github.com/yjain-7/yjain-7/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/yjain-7/yjain-7/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
 </div>
 <p align="center">
