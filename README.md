@@ -23,8 +23,7 @@ Here are some ideas to get you started:
  </div>
  
  ## 🙋‍♂️ About Me
-- 🔭 I’m currently TE Student pursuing for BE in Computer Science
-- 🌱 I’m currently learning Backend Development in java
+ 🌱 I’m currently learning Backend Development in java
 - 👊🤜 I always had a fight with me VS me
 - 💬 Ask me about ... Core Java, Spring Boot, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
 - 📫 How to reach me: ... **jainyash4292@gmail.com**
